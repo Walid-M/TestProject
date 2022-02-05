@@ -1,2 +1,2 @@
 # TestProject
-*First line
+- First line
